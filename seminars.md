@@ -30,7 +30,7 @@ title: Seminars
       <td>{{ TBD }}</td>
       <td>{{ TBD }}</td>
       <td>{{ TBD }}</td>
-      <td><span class="badge">{{ s.type }}</span></td>
+      <td><span class="badge">{{ TBD }}</span></td>
       <td><a class="btn" href="{{ s.signup }}" target="_blank" rel="noopener">Register</a></td>
     </tr>
   {% endfor %}
