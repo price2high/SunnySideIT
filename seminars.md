@@ -26,10 +26,10 @@ title: Seminars
   <tbody>
   {% for s in site.data.seminars %}
     <tr data-type="{{ s.type }}" data-location="{{ s.location }}">
-      <td>{{ s.date | date: "%b %d, %Y" }}</td>
-      <td>{{ s.time }}</td>
-      <td>{{ s.title }}</td>
-      <td>{{ s.location }}</td>
+      <td>{{ s.date | date: TBD}}</td>
+      <td>{{ TBD }}</td>
+      <td>{{ TBD }}</td>
+      <td>{{ TBD }}</td>
       <td><span class="badge">{{ s.type }}</span></td>
       <td><a class="btn" href="{{ s.signup }}" target="_blank" rel="noopener">Register</a></td>
     </tr>
