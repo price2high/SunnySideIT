@@ -23,7 +23,7 @@ title: Contact
   </label>
   <input type="hidden" name="_subject" value="New inquiry from Easy Tech Seniors"/>
   <p><button class="btn" type="submit">Send Message</button></p>
-  <p class="caption">Prefer email or phone? <a href="mailto:hello@example.com">hello@example.com</a> · (555) 123‑4567</p>
+  <p class="caption">Prefer email or phone? <a href="mailto:timorrarogo@gmail.com">timorrarogo@gmail.com</a> · (404)913-5691</p>
 </form>
 
 <script>
