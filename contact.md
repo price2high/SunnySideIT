@@ -6,7 +6,7 @@ title: Contact
 <h1>Contact Us</h1>
 <p>Have a question or want to book? Send a message and we’ll get back within one business day.</p>
 
-<form id="contactForm" action="https://formspree.io/f/your-id" method="POST">
+<form id="contactForm" action="https://forms.gle/iNwjL6GxqjUjewus7" method="POST">
   <div class="row">
     <label>Full Name
       <input type="text" name="name" required/>
