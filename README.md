@@ -1,4 +1,4 @@
-# Easy Tech Seniors
+# SunnySide IT Support
 
 A clean, minimal GitHub Pages site for a local IT support service focused on seniors.  
 Includes accessible controls, seminar filtering, and a contact form.
@@ -13,7 +13,7 @@ Includes accessible controls, seminar filtering, and a contact form.
 4. Commit & push. Your site will build automatically.
 
 ## Customize
-- Edit colors/spacing in `assets/css/style.css` (currently black & white).
+- Edit colors/spacing in `assets/css/style.css` (sunny amber & navy, matched to the print pamphlet).
 - Add/remove pages by editing `.md` files at repo root.
 - Update the logo at `assets/img/logo.svg`.
 
