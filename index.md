@@ -4,8 +4,8 @@ title: Home
 ---
 
 <section class="hero">
-  <h1>Tech made simple for seniors</h1>
-  <p>Friendly, patient support and hands-on seminars to help you stay connected and confident with your devices.</p>
+  <h1>Friendly tech help for seniors</h1>
+  <p>Patient, plain-spoken help - at your pace, in your home or by phone. Serving the Atlanta area.</p>
   <p>
     <a class="btn" href="{{ '/seminars' | relative_url }}">See Upcoming Seminars</a>
     <a class="btn secondary" href="{{ '/services' | relative_url }}">Personal Support</a>
@@ -28,6 +28,25 @@ title: Home
       <p>Learn to spot scams, use strong passwords, and protect your privacy.</p>
     </div>
   </div>
+</section>
+
+<section>
+  <h2>How we can help</h2>
+  <ul>
+    <li>Setting up a new phone, tablet, or computer</li>
+    <li>Email, accounts &amp; password help</li>
+    <li>Wi-Fi, printer &amp; smart TV problems</li>
+    <li>Updates, storage &amp; everyday fixes</li>
+    <li>Staying safe: spotting scam calls, texts &amp; emails</li>
+    <li>Learning your device, one step at a time</li>
+  </ul>
+  <p class="notice"><strong>Help you can trust.</strong> Patient, one-on-one help in plain language - no jargon, no rushing. We explain as we go, and we will never ask for your passwords.</p>
+</section>
+
+<section>
+  <h2>For senior centers, churches &amp; communities</h2>
+  <p>Ask about our Lunch &amp; Learn tech talks - practical group classes on phones, safety, and everyday technology.</p>
+  <p><a class="btn" href="{{ '/contact' | relative_url }}">Ask about a Lunch &amp; Learn</a></p>
 </section>
 
 <section>
