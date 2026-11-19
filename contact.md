@@ -4,7 +4,7 @@ title: Contact
 ---
 
 <h1>Contact Us</h1>
-<p>Have a question or want to book? Send a message and we’ll get back within one business day.</p>
+<p>Have a question or want to book? Call or text us, or send a message and we’ll get back within one business day.</p>
 
 <form id="contactForm" action="https://forms.gle/iNwjL6GxqjUjewus7" method="POST">
   <div class="row">
@@ -21,9 +21,9 @@ title: Contact
   <label>How can we help?
     <textarea name="message" rows="6" required></textarea>
   </label>
-  <input type="hidden" name="_subject" value="New inquiry from Easy Tech Seniors"/>
+  <input type="hidden" name="_subject" value="New inquiry from SunnySide IT Support"/>
   <p><button class="btn" type="submit">Send Message</button></p>
-  <p class="caption">Prefer email or phone? <a href="mailto:timorrarogo@gmail.com">timorrarogo@gmail.com</a> · (404)913-5691</p>
+  <p class="caption">Prefer email or phone? <a href="mailto:sunnyside@headlinework.com">sunnyside@headlinework.com</a> · <a href="tel:+16785613435">(678) 561-3435</a></p>
 </form>
 
 <script>
