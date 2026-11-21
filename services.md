@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Services
+title: Tech Help & Computer Support for Seniors in Atlanta
+description: "In-home tech visits, remote help, and a Family Package with monthly check-ins — patient help with computers, phones, Wi-Fi, printers, and TVs for seniors in Atlanta."
 ---
 
 <h1>Personal Support</h1>
@@ -10,17 +11,14 @@ title: Services
   <div class="card">
     <h3>Home Visit</h3>
     <p>We come to you for setup, cleanup, and lessons. Great for Wi‑Fi, printers, TVs, phones.</p>
-    <p><strong>$80 / hour</strong></p>
   </div>
   <div class="card">
     <h3>Remote Session</h3>
     <p>Fast help via phone/Zoom. Perfect for account help, small fixes, and app basics.</p>
-    <p><strong>$50 / hour</strong></p>
   </div>
   <div class="card">
     <h3>Family Package</h3>
     <p>Give peace of mind to a parent or grandparent with monthly check-ins and tune-ups.</p>
-    <p><strong>$120 / month</strong></p>
   </div>
 </div>
 

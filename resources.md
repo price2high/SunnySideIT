@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Resources
+title: Tech Guides & Tips for Seniors
+description: "Helpful guides from SunnySide — how to spot online scams, Zoom basics, and quick tips for seniors."
 ---
 
 <h1>Helpful Guides</h1>

@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Home
+title: Friendly Tech Help for Seniors in Atlanta
+description: "Patient, plain-spoken tech help for seniors in the Atlanta area — in-home visits, remote support, and friendly lessons at your pace. Call or text (678) 561-3435."
 ---
 
 <section class="hero">

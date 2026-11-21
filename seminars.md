@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Seminars
+title: Tech Seminars for Seniors in Atlanta
+description: "Upcoming SunnySide seminars in the Atlanta area — plain-spoken group sessions that help seniors feel confident with phones, computers, and staying safe online."
 ---
 
 <h1>Upcoming Seminars</h1>
