@@ -4,8 +4,43 @@
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
-  <meta name="description" content="{{ site.description }}"/>
+  <meta name="description" content="{{ page.description | default: site.description }}"/>
   {% seo %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "SunnySide IT Support",
+    "description": "Friendly tech help for seniors - patient, plain-spoken help at your pace. In-home & remote help in the Atlanta area.",
+    "url": "https://sunnysideit.support/",
+    "telephone": "+1-678-561-3435",
+    "email": "sunnyside@headlinework.com",
+    "areaServed": {
+      "@type": "City",
+      "name": "Atlanta"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Atlanta",
+      "addressRegion": "GA",
+      "addressCountry": "US"
+    },
+    "makesOffer": [
+      {
+        "@type": "Offer",
+        "itemOffered": { "@type": "Service", "name": "Home Visit Tech Help" }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": { "@type": "Service", "name": "Remote Tech Help" }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": { "@type": "Service", "name": "Family Package" }
+      }
+    ]
+  }
+  </script>
   <link rel="stylesheet" href="{{ 'assets/css/style.css' | relative_url }}"/>
 </head>
 <body>
